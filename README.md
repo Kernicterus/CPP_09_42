@@ -27,7 +27,7 @@ These exercises focus on data analysis, expression evaluation, and sorting algor
 
 1. **Clone the git :**
    ```bash
-   git@github.com:Kernicterus/cpp_09_42.git
+   git clone https://github.com/Kernicterus/cpp_09_42.git
    ```
 
 ## Usage
