@@ -34,7 +34,7 @@ These exercises focus on data analysis, expression evaluation, and sorting algor
 
 2. **Run the program :**
    ```bash
-   cd ex00 && make
+   cd ex00 && make && ./btc input.txt
    ```
 
 ## Aknowledgments
